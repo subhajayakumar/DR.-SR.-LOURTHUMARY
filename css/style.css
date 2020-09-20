@@ -2560,6 +2560,13 @@ background:#003366;
 	margin-top:90px;
 	background-color:brown;/*footer colour change red*/
 }
+.main-footer .footer-bottom{
+	position:relative;
+	padding:15px 0px;
+	margin-top:90px;
+	background-color:brown;/*footer colour change red*/
+}
+
 
 .main-footer .footer-bottom .copyright{
 	color:#ababab;
@@ -2567,7 +2574,12 @@ background:#003366;
 	padding:10px 0px;
 	text-transform:uppercase;
 }
-
+.main-footer .footer-company-name{
+	color:#FFFFFF;
+	font-size:13px;
+	padding:10px 0px;
+	text-transform:uppercase;
+}
 .footer-style-two{
 	position:relative;
 	padding:80px 0px 0px;
